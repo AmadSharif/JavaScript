@@ -6,8 +6,7 @@ console.log(marks);
 let heroes=["thor","antman","hulk","spiderman","ironman"];
 
 // manipulating the values of an array through index;
-heroes[0]="batman";//replaces thor with batman
-
+heroes[0]="batman";//replaces thor with the batman
 // printing values of array using for loop
 for(let i=0;i<heroes.length;i++){
     console.log(heroes[i]);
